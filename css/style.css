@@ -37,6 +37,9 @@ nav a{
     background: #001233;
     
 }
+nav a:hover{
+    background: #bec5d7;
+}
 
 .cabecera{
     padding-top: 36px;
